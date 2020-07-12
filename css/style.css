@@ -1,0 +1,17 @@
+#films img , #film img{
+    width: 100%;
+}
+
+@media (min-width:960px){
+
+    
+#films .col-md-3 .well {
+
+    height: 480px;
+}
+#film .col-md-3 img {
+    height: 240px;
+}
+
+}
+
